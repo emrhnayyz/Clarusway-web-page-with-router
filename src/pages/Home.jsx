@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import Form from 'react-bootstrap/Form';
-import {Header, InputDiv, Nav} from "./HomeStyle"
+import {Header, InputDiv} from "./HomeStyle"
 
 import CardPage from '../components/Card';
 
