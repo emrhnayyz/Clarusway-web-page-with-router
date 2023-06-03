@@ -8,7 +8,7 @@ const Services = () => {
   const serviceData = [
     { title: "Website Design", content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
     { title: "Website Maintenance", content: "Praesent semper dui sit amet dapibus vestibulum." },
-    { title: "Website Tools", content: "Integer id ante fringilla, efficitur tellus eu, tempor sapien." }
+    { title: "Website Hosting", content: "Integer id ante fringilla, efficitur tellus eu, tempor sapien." }
   ];
 
   return (
