@@ -1,5 +1,4 @@
-import React from 'react'
-import Button from 'react-bootstrap/Button';
+import React from 'react';
 import Card from 'react-bootstrap/Card';
 import htmlphoto from "../assets/images/logo_html.png"
 import cssphoto from "../assets/images/logo_css.png"
